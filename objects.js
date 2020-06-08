@@ -1,6 +1,6 @@
 var playlist = {artist:"song"}
 
 function updatePlaylist(playlist, artistName,songTitle){
-  playlist[artistName.songTitle]
-  return updatePlaylist();
+  playlist[artist.song]
+  return playlist();
 }
